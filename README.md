@@ -111,7 +111,7 @@ Identifies most-connected interests based on user and category connections.
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/klaviyo-hackathon.git
+git clone https://github.com/LSR614/klaviyo-hackathon.git
 cd klaviyo-hackathon
 npm install
 cp .env.example .env.local
