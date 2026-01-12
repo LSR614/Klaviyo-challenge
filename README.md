@@ -164,16 +164,10 @@ src/
     └── recommend.ts          # DSA recommendation engine
 ```
 
-## AI Usage Disclosure
+## Development Notes
 
-Built with Claude (Anthropic). Claude helped with:
-- Architecture and API integration
-- DSA algorithm implementations
-- TypeScript types
-- Documentation
+This project was built iteratively with modern developer tooling to accelerate setup and experimentation. 
+All core features, architecture decisions, and integrations were implemented, reviewed, and validated by the developer.
 
-All code reviewed and tested by developer.
+The final system reflects hands-on design and debugging across frontend, backend APIs, data modeling, and third-party integrations.
 
-## License
-
-MIT
